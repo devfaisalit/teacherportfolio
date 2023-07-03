@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf13cef0.css",
+    "main.js": "/static/js/main.8a5e0f46.js",
+    "static/js/787.e8be8e55.chunk.js": "/static/js/787.e8be8e55.chunk.js",
+    "static/media/Foldit-Regular.ttf": "/static/media/Foldit-Regular.4714e9229ccb2ae65634.ttf",
+    "static/media/Foldit-Regular.woff": "/static/media/Foldit-Regular.0b02e4a4040efdee9b4c.woff",
+    "static/media/four.png": "/static/media/four.fc4a12f5eecc2efbf575.png",
+    "static/media/batol.jpg": "/static/media/batol.92e4183ea97077c55627.jpg",
+    "static/media/three.png": "/static/media/three.aa13e371627e4a65ac88.png",
+    "static/media/sixth.png": "/static/media/sixth.346432164c2e28857b8b.png",
+    "static/media/fifth.png": "/static/media/fifth.d97252853070e7ded9e2.png",
+    "static/media/first.png": "/static/media/first.9ca43bbeb764a94a03d6.png",
+    "static/media/Foldit-Regular.woff2": "/static/media/Foldit-Regular.a947ec550339401302ef.woff2",
+    "static/media/second.png": "/static/media/second.cae5e57f1e7c171728a8.png",
+    "index.html": "/index.html",
+    "static/media/scale.svg": "/static/media/scale.2cba11e1355ee6b96921c26913657dc3.svg",
+    "main.bf13cef0.css.map": "/static/css/main.bf13cef0.css.map",
+    "main.8a5e0f46.js.map": "/static/js/main.8a5e0f46.js.map",
+    "787.e8be8e55.chunk.js.map": "/static/js/787.e8be8e55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf13cef0.css",
+    "static/js/main.8a5e0f46.js"
+  ]
+}

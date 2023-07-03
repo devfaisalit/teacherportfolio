@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Foldit';
+    src: local('Foldit Regular'), local('Foldit-Regular'),
+        url('Foldit-Regular.woff2') format('woff2'),
+        url('Foldit-Regular.woff') format('woff'),
+        url('Foldit-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }

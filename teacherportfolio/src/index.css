@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: Foldit;
+src: url(./fonts/Foldit-Regular.ttf);
+src: url(./fonts/Foldit-Regular.woff);
+src: url(./fonts/Foldit-Regular.woff2);
+}
+@layer utilities {
+    .clip-path-home{
+        clip-path: polygon(0 0, 100% 0%, 100% 81%, 0% 100%);
+    }
+    .clip-lg{
+        clip-path: polygon(0 0, 100% 0, 100% 61%, 0 82%);
+    }
+    .clip-md{
+        clip-path: polygon(0 0, 100% 0, 100% 53%, 0 71%);
+    }
+    .clip-sm{
+        clip-path: polygon(0 0, 100% 0, 100% 63%, 0 90%);
+    }
+
+}
